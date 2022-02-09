@@ -1,0 +1,22 @@
+.card-containers{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.card-containers a{
+    text-decoration: none;
+    color:black;
+}
+.header-listCard{
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.466);
+}
+
+.header-listCard h2{
+    margin: 0;
+}

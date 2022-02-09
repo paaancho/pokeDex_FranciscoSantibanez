@@ -1,0 +1,8 @@
+.detailPokemon-container{
+    width: 90%;
+    margin: 100px auto;
+    padding: 50px 0;
+    background-color: rgba(255, 255, 255, 0.767);
+    border-radius: 10px;
+    transition: all ease-in 5s;
+}

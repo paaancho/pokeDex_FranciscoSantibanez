@@ -1,0 +1,22 @@
+.detailPokemon{
+    display: flex;
+    width: 60%;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.image-Pokemon{
+    width: 100%;
+}
+
+.image-Pokemon img{
+    width: 120px;
+}
+
+.habilities p{
+    font-weight: bold;
+}
+
+.pokeInfo h1{
+    text-transform: capitalize;
+}
