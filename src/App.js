@@ -2,7 +2,6 @@ import './App.css';
 import ListCardContainer from './components/listCardContainer/listCardContainer';
 import DetailPokemonContainer from './components/detailPokemonContainer/detailPokemonContainer';
 import { BrowserRouter, Routes,Route } from "react-router-dom";
-import { Slide } from '@mui/material';
 function App() {
 
   return (
