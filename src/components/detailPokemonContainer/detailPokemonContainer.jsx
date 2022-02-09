@@ -15,7 +15,7 @@ const DetailPokemonContainer = () => {
 
    return(
         <div className="detailPokemon-container fade-in">
-            <h3>Información del pokemon</h3>
+            <h3>Información del Pokémon</h3>
             <DetailPokemon pokeInfo={pokeInfo} />
             <Button variant="contained" href="/">Volver</Button>
         </div>

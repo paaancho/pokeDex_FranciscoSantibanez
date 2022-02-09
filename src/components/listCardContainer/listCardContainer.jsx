@@ -25,7 +25,7 @@ const ListCardContainer = () =>{
     return (
         <div className="main-container fade-in">
             <div className="header-listCard">
-                <SearchBox placeholder="Busca tu pokemon" dataInput={dataInput} /> 
+                <SearchBox placeholder="Busca tu Pokémon" dataInput={dataInput} /> 
             </div>
             <div className="card-containers">
             {
