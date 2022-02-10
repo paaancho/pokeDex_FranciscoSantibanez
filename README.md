@@ -2,6 +2,7 @@
 
 Aplicación Web desarrollada en reactJS que muestra información de Pokémon consumiendo la api pokeAPI. En la página principal se muestran tarjetas con
 una breve información del Pokémon, al hacer clic en una tarjeta se muestra información más detallada del Pokémon.
+[Demo](https://pokedex-franciscosantibanez.netlify.app)
 
 ## Comenzando 🚀
 
